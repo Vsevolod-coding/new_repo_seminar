@@ -14,3 +14,5 @@ text on a new branch
 ### Memes:
 
 ``Oh holera chi to Freddie Fazbear?!``
+
+Разрешаем конфликт
